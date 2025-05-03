@@ -26,9 +26,7 @@ At the end of this project, I am expected to be able to explain, **without the h
 - All prototypes included in `binary_trees.h`.
 - Include guards are used in all header files.
 - Only standard libraries allowed.
-- A visualization print function is provided for debugging but **must not be pushed**.
-
-## Data Structures
+- A visualization print function is provided for debugging but **must not be pushed**
 
 
 GitHub: OkanMahmudov
